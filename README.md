@@ -1,6 +1,6 @@
 # CV Spider V3
 
-Built in October 2014. Third version of CV spider that search with Walla search that uses Google search in view source, and also do the same with BING search engine, emails that matches some keys, and send automatic emails that found.
+Built in October 2014. Third version of CV spider that searches with Walla search that uses Google search in view source, and also does the same with BING search engine, emails that match some keys, and send automatic emails that are found.
 
 ## Getting Started
 
@@ -35,4 +35,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This application has UNLICENSED License.
+This application has an UNLICENSED License.
