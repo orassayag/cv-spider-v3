@@ -1,6 +1,6 @@
 # CV Spider V3
 
-Built in October 2014. Third version of CV spider that searches with Walla search that uses Google search in view source, and also does the same with BING search engine, emails that match some keys, and send automatic emails that are found.
+Built in October 2014. Third version of CV spider that searches with Walla search that uses Google search in view source, and also does the same with Bing search engine, emails that match some keys, and send automatic emails that are found.
 
 ## Getting Started
 
@@ -8,14 +8,14 @@ Clone the project to your computer.
 
 ### Prerequisites
 
-You'll need to install .Net and SQL Stored Procedure (Recommended to work with SQL management studio).
+You'll need to install .NET and SQL Stored Procedure (Recommended to work with SQL management studio).
 
 ## Built With
 
 * [ASP.NET Web-Forms](https://www.asp.net/web-forms) - The web framework used.
 * [SQL](https://azure.microsoft.com/en-us/services/sql-database/) - The database used.
-* [Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/create-a-stored-procedure?view=sql-server-2017) - The component of .NET Framework.
-* [GIT](https://git-scm.com/) - Source Management.
+* [Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/create-a-stored-procedure?view=sql-server-2017) - The component of .NET framework.
+* [GIT](https://git-scm.com/) - Source management.
 
 ## Contributing
 
