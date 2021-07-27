@@ -12,10 +12,10 @@ You'll need to install .NET and SQL Stored Procedure (Recommended to work with S
 
 ## Built With
 
-* [ASP.NET Web-Forms](https://www.asp.net/web-forms) - The web framework used.
-* [SQL](https://azure.microsoft.com/en-us/services/sql-database/) - The database used.
+* [Asp.Net Web-Forms](https://www.asp.net/web-forms) - The web framework used.
+* [Sql](https://azure.microsoft.com/en-us/services/sql-database/) - The database used.
 * [Stored Procedure](https://docs.microsoft.com/en-us/sql/relational-databases/stored-procedures/create-a-stored-procedure?view=sql-server-2017) - The component of .NET framework.
-* [GIT](https://git-scm.com/) - Source management.
+* [Git](https://git-scm.com/) - Source management.
 
 ## Contributing
 
@@ -23,7 +23,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+We use [SemVer](http://semver.org) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Author
 
@@ -35,4 +35,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-This application has an UNLICENSED License.
+This application has an UNLICENSED license.
