@@ -1,0 +1,63 @@
+{
+  "name": "cv-spider-v3",
+  "version": "3.0.0",
+  "private": false,
+  "description": "An ASP.NET Web Forms application that automatically discovers and collects email addresses from search engine results for CV/resume sourcing purposes. Features comprehensive email validation, cleaning, SQL Server storage, and Hebrew language support for Israeli job market targeting.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/orassayag/cv-spider-v3.git"
+  },
+  "keywords": [
+    "aspnet",
+    "csharp",
+    "dotnet",
+    "web-scraping",
+    "email-extraction",
+    "cv",
+    "resume",
+    "recruitment",
+    "sql-server",
+    "hebrew",
+    "job-search",
+    "email-validation",
+    "walla-search",
+    "data-collection",
+    "automation"
+  ],
+  "author": "Or Assayag <orassayag@gmail.com>",
+  "contributors": [
+    {
+      "name": "Or Assayag",
+      "email": "orassayag@gmail.com",
+      "url": "https://github.com/orassayag"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orassayag/cv-spider-v3/issues"
+  },
+  "homepage": "https://github.com/orassayag/cv-spider-v3#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "scripts": {
+    "build": "echo 'This is a .NET project. Use Visual Studio or MSBuild to build.'",
+    "test": "echo 'No tests configured for this .NET project.'",
+    "start": "echo 'This is a .NET Web Forms project. Deploy to IIS or run from Visual Studio.'"
+  },
+  "files": [
+    "Core",
+    "Properties",
+    "FetchMails.ashx",
+    "FetchMails.ashx.cs",
+    "Web.config",
+    "Web.Debug.config",
+    "Web.Release.config",
+    "CVNew.csproj",
+    "CVNew.sln",
+    "CONTRIBUTING.md",
+    "INSTRUCTIONS.md",
+    "LICENSE",
+    "README.md"
+  ]
+}

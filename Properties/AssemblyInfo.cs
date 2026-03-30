@@ -1,16 +1,16 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CVNew")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("CV Spider V3")]
+[assembly: AssemblyDescription("ASP.NET Web Forms application that automatically discovers and collects email addresses from search engine results for CV/resume sourcing purposes with comprehensive validation and database storage.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CVNew")]
-[assembly: AssemblyCopyright("Copyright ©  2014")]
+[assembly: AssemblyCompany("Or Assayag")]
+[assembly: AssemblyProduct("CV Spider V3")]
+[assembly: AssemblyCopyright("Copyright © 2014 Or Assayag")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
